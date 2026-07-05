@@ -74,7 +74,3 @@ Ao iniciar, o programa mostra as seguintes opções:
 ## Resumo
 
 Esse projeto é uma introdução prática ao uso de classes, métodos, controle de fluxo e interação com o usuário em Java.
-
-## Texto para publicação no LinkedIn
-
-Este projeto foi uma ótima oportunidade para colocar em prática conceitos fundamentais de Java, como orientação a objetos, controle de fluxo e interação com o usuário no terminal. Desenvolver uma simulação de carro com funções como ligar, acelerar, mudar de marcha e controlar a direção ajudou a fortalecer minha compreensão sobre a lógica de programação e a estruturação de classes. Cada desafio dessa implementação reforçou a importância de escrever código organizado, claro e funcional.
